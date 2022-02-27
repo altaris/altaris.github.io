@@ -1,0 +1,27 @@
+# https://gohugo.io/getting-started/configuration/
+
+baseURL: "https://cedric.hothanh.fr"
+defaultContentLanguage: en
+enableEmoji: true  # https://www.webfx.com/tools/emoji-cheat-sheet/
+enableRobotsTXT: true
+hasCJKLanguage: true
+languageCode: en-us
+theme: PaperMod  # https://github.com/adityatelange/hugo-PaperMod
+title: "Cédric HT"
+
+params:
+  profileMode:
+    enabled: true
+    title: "👋"
+    subtitle: "Welcome to my website"
+  socialIcons:
+  - name: cv
+    url: http://cloud.hothanh.fr/s/wKxntpt4bi5zSC6/download
+  - name: github
+    url: https://github.com/altaris
+  - name: orcid
+    url: https://orcid.org/0000-0003-4476-2034
+  - name: linkedin
+    url: https://www.linkedin.com/in/cedrichothanh
+  - name: researchgate
+    url: https://researchmap.jp/cedric.hothanh
