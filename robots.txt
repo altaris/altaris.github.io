@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cedric.hothanh.fr/sitemap.xml
