@@ -1,3 +1,7 @@
+# VSCode
+*.code-workspace
+.vscode/
+
 # MacOS garbage
 .DS_Store
 
