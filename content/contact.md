@@ -5,18 +5,16 @@ menu: main
 
 # eMail
 
-
-> hothanh
+> cedric.hothanh
 > [\[At sign\]](https://en.wikipedia.org/wiki/At_sign)
-> nii.ac.
+> riken.
 > [\[ccTLD of Japan\]](https://en.wikipedia.org/wiki/.jp)
 
 # Address
 
-> ERATO Hasuo Project, National Institute for Informatics,
-> Hitotsubashi 2-1-2, Tokyo 101-8430
+> Nihonbashi 1-chome Mitsui Building, 15th floor,
+> 1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan
 
 or
 
-> 〒101-8430　東京都千代田区一ツ橋2-1-2 　
-> 国立情報学研究所　蓮尾研究室（ERATO蓮尾プロジェクト）
+> 〒103-0027 東京都 中央区日 本橋1-4-1 日本橋一丁目 三井ビルディング 15階

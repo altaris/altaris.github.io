@@ -3,16 +3,14 @@ title: About me
 menu: main
 ---
 
-I am currently a project researcher at [Ichiro
+I am currently a postdoctoral researcher at Prof. Takemasa Miyoshi's
+[Prediction Science Laboratory](https://prediction.riken.jp/project_en.html),
+[RIKEN Cluster for Pioneering Research](https://www.riken.jp/en/), Japan.
+
+<!-- I am currently a project researcher at [Ichiro
 Hasuo](http://group-mmm.org/~ichiro/)'s [ERATO Metamathematics for Systems
 Design Project (ERATO MMSD)](https://group-mmm.org/eratommsd/) at the [National
-Institute of Informatics (NII)](http://www.nii.ac.jp/en/) in Tokyo, Japan.
-
-The core of my research deals with opetopic foundations to higher structures,
-and the homotopy theory of opetopic algebras. Recently though, my activities
-shifted towards more applied topics, such as scientific programming, and
-machine learning (mainly neural networks) with applications to autonomous
-vehicles.
+Institute of Informatics (NII)](http://www.nii.ac.jp/en/) in Tokyo, Japan. -->
 
 I obtained my PhD in mathematics from [Paris
 University](https://u-paris.fr/en/), France, in October 2020, where I was a
