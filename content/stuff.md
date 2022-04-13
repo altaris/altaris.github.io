@@ -97,3 +97,10 @@ menu: main
   then presented, along with results about the “homotopical category – nerve”
   adjunction. Finally, adjunctions in 2-categories, and limits in term of
   absolute lifting property are discussed.
+
+
+# Other
+
+* **`brainfuck++`: a much needed extension to `brainfuck`**, 2022,
+  [proceedings](https://www.sigbovik.org/2022/proceedings.pdf) of
+  [SIGBOVIK'22](https://www.sigbovik.org/2022).
