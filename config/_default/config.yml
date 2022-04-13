@@ -23,5 +23,5 @@ params:
     url: https://orcid.org/0000-0003-4476-2034
   - name: linkedin
     url: https://www.linkedin.com/in/cedrichothanh
-  - name: researchgate
-    url: https://researchmap.jp/cedric.hothanh
+# - name: researchgate
+#   url: https://researchmap.jp/cedric.hothanh
