@@ -102,15 +102,6 @@ menu: main
   Day](https://www.irif.fr/_media/rencontres/irif2017/newcomer17.pdf).
 
 
-# Notes
-
-* [**Monad with arities & parametric right
-  adjoints**](https://cloud.hothanh.fr/s/PrdiPEsaF7kBWdR), 2019-07.
-* [**Koszul duality**](https://cloud.hothanh.fr/s/wXXn9YF7ZHSBF5c), 2019-07.
-* [**Some Coq introduction and elimination
-  rules**](https://cloud.hothanh.fr/s/t6rpWrTHTfACrJ8), 2018-12.
-
-
 # Projects
 
 * [**nmoo**](https://github.com/altaris/noisy-moo), 2021. A wrapper-based
