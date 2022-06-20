@@ -4,7 +4,19 @@ menu: main
 ---
 
 
-# Programming
+# Projects
+
+* [**noisy-moo**](https://github.com/altaris/noisy-moo): A wrapper-based
+  framework for [`pymoo`](https://pymoo.org/) problem modification and
+  algorithm benchmarking. Initially developed to test
+  [*KNN-averaging*](https://doi.org/10.1007/978-3-030-85347-1_36).
+
+* [**Turbo Broccoli**](https://pypi.org/project/turbo-broccoli): A Python
+  package containing JSON (de)serialization extensions. It makes it possible to
+  embed `bytes`, `numpy` arrays, `keras` models,
+  [etc.](https://github.com/altaris/turbo-broccoli#supported-types) in a `dict`
+  and seemlessly pass it on to `json.dump`, and conversely, reconstruct these
+  objects using `json.load`.
 
 * [**kappak**](https://github.com/altaris/kappak): My LaTeX package. It
   regroups functionalities I find useful, from general style of LaTeX documents
@@ -18,10 +30,6 @@ menu: main
   performs incremental backups of a given volume to an S3 storage using
   [restic](https://restic.readthedocs.io/en/latest/) and
   [rclone](https://rclone.org/).
-
-* [**fapy**](https://github.com/altaris/fapy): Fun (?) with finite automata in
-  python. Available on [Binder](https://mybinder.org/v2/gh/altaris/fapy/master)
-  (click on index.ipnb).
 
 * [**potatos**](https://github.com/altaris/potatos): Personal OS experiment in
   C++. When you press a key it display what key you just pressed yay.
@@ -74,7 +82,7 @@ menu: main
   [EPFL](https://www.epfl.ch/) during the spring semester 2013.
 
 
-# Personal notes and projects
+# Personal notes
 
 * [**Monad with arities & parametric right
   adjoints**](https://cloud.hothanh.fr/s/PrdiPEsaF7kBWdR), 2019-07.
