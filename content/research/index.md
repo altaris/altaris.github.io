@@ -104,10 +104,10 @@ menu: main
 
 # Projects
 
-* [**nmoo**](https://github.com/altaris/noisy-moo), 2021. A wrapper-based
-  framework for pymoo problem modification. The original motivation was to
-  benchmark different “denoising” algorithms in the field of multi-objective
-  optimization.
+* [**noisy-moo**](https://github.com/altaris/noisy-moo): A wrapper-based
+  framework for [`pymoo`](https://pymoo.org/) problem modification and
+  algorithm benchmarking. Initially developed to test
+  [*KNN-averaging*](https://doi.org/10.1007/978-3-030-85347-1_36).
 * [**opetopy**](https://github.com/altaris/opetopy), 2018. A Python
   implementation of the opetopes and opetopic sets derivation systems presented
   in **Syntactic approaches to opetopes** and **Syntactic approach to opetopic

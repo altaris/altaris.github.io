@@ -6,11 +6,6 @@ menu: main
 
 # Projects
 
-* [**noisy-moo**](https://github.com/altaris/noisy-moo): A wrapper-based
-  framework for [`pymoo`](https://pymoo.org/) problem modification and
-  algorithm benchmarking. Initially developed to test
-  [*KNN-averaging*](https://doi.org/10.1007/978-3-030-85347-1_36).
-
 * [**Turbo Broccoli**](https://pypi.org/project/turbo-broccoli): A Python
   package containing JSON (de)serialization extensions. It makes it possible to
   embed `bytes`, `numpy` arrays, `keras` models,
