@@ -25,18 +25,17 @@ menu: main
 
 * [**Opetopic algebras III: Presheaf models of homotopy-coherent opetopic
   algebras**](https://arxiv.org/abs/2001.07924), 2020, with [Chaitanya Leena
-  Subramaniam](https://sites.google.com/view/chaitanyals). [HAL
+  Subramaniam](https://www.chaitanyals.site). [HAL
   mirror](https://hal.archives-ouvertes.fr/hal-02448208).
 
 * **Opetopic algebras II: Homotopy-coherent opetopic algebras**, in
   preparation, with [Chaitanya Leena
-  Subramaniam](https://sites.google.com/view/chaitanyals).
+  Subramaniam](https://www.chaitanyals.site).
 
 * [**Opetopic algebras I: Algebraic structures on opetopic
   sets**](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/HoThanhLeenaSubramaniam),
-  2022, with [Chaitanya Leena
-  Subramaniam](https://sites.google.com/view/chaitanyals). In [Higher
-  Structures, Volume 6, Issue
+  2022, with [Chaitanya Leena Subramaniam](https://www.chaitanyals.site). In
+  [Higher Structures, Volume 6, Issue
   1](https://higher-structures.math.cas.cz/articles/Vol6Iss1).
 
 * [**Type theoretical approaches to
