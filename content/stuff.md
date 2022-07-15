@@ -19,12 +19,12 @@ menu: main
   related commands (theorem environments, commutative diagrams, …).
   Consequently, it might not be as useful for you as it is for me, but you are
   welcome to give a try. [Wiki-that-might-or-might-not-be-up-to-date
-  (￣ω￣;)](https://altaris.github.io/kappak/).
+  (￣ω￣;)](https://altaris.github.io/kappak).
 
 * [**s3backup**](https://github.com/altaris/s3backup): This docker image
   performs incremental backups of a given volume to an S3 storage using
-  [restic](https://restic.readthedocs.io/en/latest/) and
-  [rclone](https://rclone.org/).
+  [restic](https://restic.readthedocs.io/en/latest) and
+  [rclone](https://rclone.org).
 
 * [**potatos**](https://github.com/altaris/potatos): Personal OS experiment in
   C++. When you press a key it display what key you just pressed yay.
@@ -48,33 +48,33 @@ menu: main
   Métayer](https://www.irif.fr/~metayer/index.html), given during the
   conference [Categories in Homotopy Theory and
   Rewriting](http://conferences.cirm-math.fr/1773.html) held at
-  [CIRM](http://www.cirm-math.com/) in September 2017.
+  [CIRM](http://www.cirm-math.com) in September 2017.
 
 * [**Finite Dimensional
   Algebras**](https://hothanh.fr/cedric/wp-content/uploads/sites/2/2017/11/fda15.pdf),
   spring 2015: Unofficial lecture notes from the Finite Dimensional Algebras
   course, given by prof. [Jacques
   Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
-  [EPFL](https://www.epfl.ch/) during the spring semester 2015.
+  [EPFL](https://www.epfl.ch) during the spring semester 2015.
 
 * [**Théorie de
   Galois**](https://hothanh.fr/cedric/wp-content/uploads/sites/2/2017/11/thgalois14.pdf),
   spring 2014: Unofficial lecture notes from the Galois Theory course, given by
   prof. [Jacques Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
-  [EPFL](https://www.epfl.ch/) during the spring semester 2014.
+  [EPFL](https://www.epfl.ch) during the spring semester 2014.
 
 * [**Set
   Theory**](https://hothanh.fr/cedric/wp-content/uploads/sites/2/2017/11/set-theory-2013.pdf),
   fall 2013: Unofficial lecture notes from the Set Theory course, given by
   prof. [Jacques Duparc](http://hec.unil.ch/people/jduparc?dyn_lang=fr) at
-  [EPFL](https://www.epfl.ch/) during the fall semester 2013.
+  [EPFL](https://www.epfl.ch) during the fall semester 2013.
 
 * [**Représentations des Groupes
   Finis**](https://hothanh.fr/cedric/wp-content/uploads/sites/2/2017/11/reprc3a9sentations-des-groupes-finis.pdf),
   spring 2013: Unofficial lecture notes from the Representation Theory of
   Finite Groups course, given by prof. [Jacques
   Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
-  [EPFL](https://www.epfl.ch/) during the spring semester 2013.
+  [EPFL](https://www.epfl.ch) during the spring semester 2013.
 
 
 # Personal notes
