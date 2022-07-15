@@ -33,17 +33,18 @@ menu: main
   Subramaniam](https://sites.google.com/view/chaitanyals).
 
 * [**Opetopic algebras I: Algebraic structures on opetopic
-  sets**](https://arxiv.org/abs/1911.00907), 2019, with [Chaitanya Leena
-  Subramaniam](https://sites.google.com/view/chaitanyals). Accepted at [Higher
-  Structures](https://journals.mq.edu.au/index.php/higher_structures/index).
-  [Hal mirror](https://hal.archives-ouvertes.fr/hal-02343861).
+  sets**](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/HoThanhLeenaSubramaniam),
+  2022, with [Chaitanya Leena
+  Subramaniam](https://sites.google.com/view/chaitanyals). In [Higher
+  Structures, Volume 6, Issue
+  1](https://higher-structures.math.cas.cz/articles/Vol6Iss1).
 
-* [**Syntactic approaches to opetopes**](https://arxiv.org/abs/1903.05848),
-  2019, with [Pierre-Louis Curien](https://www.irif.fr/~curien/) and [Samuel
-  Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/). Accepted at
-  [Higher
-  Structures](https://journals.mq.edu.au/index.php/higher_structures/index).
-  [HAL mirror](https://hal.archives-ouvertes.fr/hal-02064784). Short version
+* [**Type theoretical approaches to
+  opetopes**](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/CurHoTMim),
+  2022, with [Pierre-Louis Curien](https://www.irif.fr/~curien/) and [Samuel
+  Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/). In [Higher
+  Structures, Volume 6, Issue
+  1](https://higher-structures.math.cas.cz/articles/Vol6Iss1). Short version
   about the _unnamed approach_ accepted and presented at [Category Theory (CT)
   2019](http://conferences.inf.ed.ac.uk/ct2019/).
 
@@ -56,8 +57,8 @@ menu: main
 
 * [**The equivalence between opetopic sets and many-to-one
   polygraphs**](https://arxiv.org/abs/1806.08645), 2018. [HAL
-  mirror](https://hal.archives-ouvertes.fr/hal-01946918). Extended abstract
-  accepted and presented at [Higher-Dimensional Rewriting and Algebra
+  mirror](https://hal.archives-ouvertes.fr/hal-01946918). Submitted. Extended
+  abstract accepted and presented at [Higher-Dimensional Rewriting and Algebra
   (HDRA/FLOC) 2018](http://hdra.gforge.inria.fr/).
 
 
@@ -89,7 +90,7 @@ menu: main
   [Journées
   LHC](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/LHC/journees).
   Presentation about the _named_ and _unnamed approaches_ to opetopes from
-  **Syntactic approaches to opetopes** (see above).
+  **Type theoretical approaches to opetopes** (see above).
 
 * [**The equivalence between opetopic sets and many-to-one
   polygraphs**](2018-07-hdra.pdf), 2018-07-07, [Higher-Dimensional Rewriting
