@@ -3,9 +3,13 @@ title: About me
 menu: main
 ---
 
-I am currently a postdoctoral researcher at Prof. Takemasa Miyoshi's
-[Prediction Science Laboratory](https://prediction.riken.jp/project_en.html),
-[RIKEN Cluster for Pioneering Research](https://www.riken.jp/en), Japan.
+I am currently a postdoctoral researcher at [Prof. Takemasa
+Miyoshi](https://data-assimilation.riken.jp/~miyoshi)'s [Prediction Science
+Laboratory](https://prediction.riken.jp/project_en.html), [RIKEN Cluster for
+Pioneering Research](https://www.riken.jp/en), in the [Medical Data Deep
+Learning
+Team](https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/med_data_deep_learn/index.html),
+headed by [Dr. Jun Seita](http://junseita.com/mt/bio.html).
 
 <!-- I am currently a project researcher at [Ichiro
 Hasuo](http://group-mmm.org/~ichiro)'s [ERATO Metamathematics for Systems
