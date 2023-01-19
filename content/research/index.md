@@ -5,9 +5,10 @@ menu: main
 
 # Articles and preprints
 
-* **Topological recurrence theorems for infinitary probabilistic model
-  checking**, 2022, with [Natsuki Urabe](https://group-mmm.org/~nurabe) and
-  [Ichiro Hasuo](http://group-mmm.org/~ichiro). Submitted.
+* [**Topological recurrence theorems for infinitary probabilistic model
+  checking**](2021-markov-recurrence.pdf), 2022, with [Natsuki
+  Urabe](https://group-mmm.org/~nurabe) and [Ichiro
+  Hasuo](http://group-mmm.org/~ichiro).
 
 * **Trust your neighbours: handling noise in multi-objective optimisation using
   kNN-averaging**, 2021, with [Stefan Klikovits](https://klikovits.net), [Ahmet
