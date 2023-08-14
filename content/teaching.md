@@ -1,7 +1,6 @@
 ---
 title: Teaching
 menu: main
-draft: true
 ---
 
 # TA
