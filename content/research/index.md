@@ -5,15 +5,17 @@ menu: main
 
 # Articles and preprints
 
+- [**Trust your neighbours: Handling noise in multi-objective optimisation
+  using kNN-averaging**](https://doi.org/10.1016/j.asoc.2023.110631), 2023,
+  with [Stefan Klikovits](https://klikovits.net), [Ahmet
+  Cetinkaya](http://www.ahmet.ac), and [Paolo
+  Arcaini](http://group-mmm.org/~arcaini). In [Applied Soft
+  Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
+
 - [**Topological recurrence theorems for infinitary probabilistic model
   checking**](2021-markov-recurrence.pdf), 2022, with [Natsuki
   Urabe](https://group-mmm.org/~nurabe) and [Ichiro
   Hasuo](http://group-mmm.org/~ichiro).
-
-- **Trust your neighbours: handling noise in multi-objective optimisation using
-  kNN-averaging**, 2021, with [Stefan Klikovits](https://klikovits.net), [Ahmet
-  Cetinkaya](http://www.ahmet.ac), and [Paolo
-  Arcaini](http://group-mmm.org/~arcaini). Submitted.
 
 - [**Frenetic at the SBST 2021 tool
   competition**](https://ieeexplore.ieee.org/document/9476234), 2021, with
