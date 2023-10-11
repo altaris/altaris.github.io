@@ -93,38 +93,28 @@ menu: main
 
 # Personal notes
 
-- [**Stability of Lawvere Theories**](2021-stability-of-lawvere-theories), work
-  in progress, 2021.
+- [**Stability of Lawvere Theories**](2021-stability-of-lawvere-theories.pdf),
+  work in progress, 2021.
 
-- [**Monad with arities & parametric right
-  adjoints**](https://cloud.hothanh.fr/s/PrdiPEsaF7kBWdR), 2019-07.
+- [**Notes on monad with arities & parametric right
+  adjoints**](2019-07-wtf-is-pra.pdf), 2019-07.
 
-- [**Koszul duality**](https://cloud.hothanh.fr/s/wXXn9YF7ZHSBF5c), 2019-07.
+- [**Notes on Koszul duality**](2019-07-wtf-koszul.pdf), 2019-07.
 
-- [**Some Coq introduction and elimination
-  rules**](https://cloud.hothanh.fr/s/t6rpWrTHTfACrJ8), 2018-12.
+- [**Notes on some Coq introduction and elimination
+  rules**](2018-12-wtf-coq.pdf), 2018-12.
 
 - [**The Vector
   Convention**](https://github.com/altaris/vector-convention/raw/master/vector-convention.pdf)
   , 2017: We introduce some conventions that promote shorter array handling
   notations.
 
-- [**Notes on the Tensor Product of Axiomatized Algebraic Theories and their
-  Stability**](https://github.com/altaris/notes-tensor-aat/raw/master/notes-tensor-aat.pdf),
-  2015: In this personal project, we investigate the categories encoding
-  axiomatized algebraic theories, and the associated categories of models. A
-  tensor product or theories is constructed, and we try to investigate the
-  iterated tensor of a given theory. An algebraic invariant is constructed and
-  computed for classical examples. It however turns out to be too weak for
-  meaningful results.
-
-- [**Quasi
-  Categories**](https://hothanh.fr/cedric/wp-content/uploads/sites/2/2017/09/projet-cht-ma2.pdf),
-  2014: This semester project introduces a first notion of (strict)
-  ∞-categories via enrichment. Another approach, namely quasi categories, is
-  then presented, along with results about the “homotopical category – nerve”
-  adjunction. Finally, adjunctions in 2-categories, and limits in term of
-  absolute lifting property are discussed.
+- [**Quasi Categories**](2014-quasi-categories.pdf), 2014: This semester
+  project introduces a first notion of (strict) ∞-categories via enrichment.
+  Another approach, namely quasi categories, is then presented, along with
+  results about the “homotopical category – nerve” adjunction. Finally,
+  adjunctions in 2-categories, and limits in term of absolute lifting property
+  are discussed.
 
 # Other
 
