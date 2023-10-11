@@ -65,6 +65,10 @@ menu: main
 
 # Selected presentations
 
+- [**Recurrence theorems for topological Markov
+  chains**](2022-04-22-ithems.pdf), 2022-04-22, [iTHEMS math
+  seminar](https://ithems.riken.jp/en/news/ithems-math-seminar-by-dr-cedric-ho-thanh-on-april-22-2022)
+
 - [**Introduction to multi-armed bandits**](2021-07-g0.pdf), 2021-07-14, [G0
   Seminar](https://group-mmm.org/eratommsd/members/g0-metamathematical-integration).
   [Video](https://group-mmm.org/videos/MMMSeminar/2021/2021_G0_Seminar/2021_07_14_Ce%cc%81dric_Ho_Thanh.mp4).
@@ -109,6 +113,7 @@ menu: main
   framework for [`pymoo`](https://pymoo.org) problem modification and algorithm
   benchmarking. Initially developed to test
   [_KNN-averaging_](https://doi.org/10.1007/978-3-030-85347-1_36).
+
 - [**opetopy**](https://github.com/altaris/opetopy), 2018. A Python
   implementation of the opetopes and opetopic sets derivation systems presented
   in **Syntactic approaches to opetopes** and **Syntactic approach to opetopic
