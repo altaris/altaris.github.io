@@ -93,6 +93,9 @@ menu: main
 
 # Personal notes
 
+- [**Stability of Lawvere Theories**](2021-stability-of-lawvere-theories), work
+  in progress, 2021.
+
 - [**Monad with arities & parametric right
   adjoints**](https://cloud.hothanh.fr/s/PrdiPEsaF7kBWdR), 2019-07.
 
