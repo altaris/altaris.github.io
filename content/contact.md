@@ -7,7 +7,7 @@ menu: main
 
 > cedric.hothanh
 > [\[At sign\]](https://en.wikipedia.org/wiki/At_sign)
-> riken.
+> riken
 > [\[ccTLD of Japan\]](https://en.wikipedia.org/wiki/.jp)
 
 # Address
