@@ -15,8 +15,8 @@ params:
     title: "👋"
     subtitle: "Welcome to my website"
   socialIcons:
-    - name: cv
-      url: http://cloud.hothanh.fr/s/wKxntpt4bi5zSC6/download
+    # - name: cv
+    #   url: http://cloud.hothanh.fr/s/wKxntpt4bi5zSC6/download
     - name: github
       url: https://github.com/altaris
     - name: orcid
