@@ -13,7 +13,7 @@ menu: main
   Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 
 - [**Topological recurrence theorems for infinitary probabilistic model
-  checking**](2021-markov-recurrence.pdf), 2022, with [Natsuki
+  checking**](https://hal.science/hal-04283680), 2022, with [Natsuki
   Urabe](https://group-mmm.org/~nurabe) and [Ichiro
   Hasuo](http://group-mmm.org/~ichiro).
 
