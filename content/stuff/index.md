@@ -5,12 +5,12 @@ menu: main
 
 # Projects
 
-- [**Turbo Broccoli**](https://pypi.org/project/turbo-broccoli): A Python
+- [**Turbo Broccoli**](https://github.com/altaris/turbo-broccoli): A Python
   package containing JSON (de)serialization extensions. It makes it possible to
   embed `bytes`, `numpy` arrays, `keras` models,
-  [etc.](https://github.com/altaris/turbo-broccoli#supported-types) in a `dict`
-  and seemlessly pass it on to `json.dump`, and conversely, reconstruct these
-  objects using `json.load`.
+  [etc.](https://cedric.hothanh.fr/turbo-broccoli/turbo_broccoli.html#supported-types)
+  in a `dict` and seemlessly pass it on to `json.dump`, and conversely,
+  reconstruct these objects using `json.load`.
 
 - [**kappak**](https://github.com/altaris/kappak): My LaTeX package. It
   regroups functionalities I find useful, from general style of LaTeX documents
