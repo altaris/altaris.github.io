@@ -53,13 +53,13 @@ menu: main
   by prof. [Jacques Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
   [EPFL](https://www.epfl.ch) during the spring semester of 2015.
 
-- [**Théorie de Galois**](2014-theorie-de-galois.pdf) :flag_fr:: Unofficial
+- [**Théorie de Galois**](2014-theorie-de-galois.pdf) 🇫🇷: Unofficial
   lecture notes from the Galois Theory course, given by prof. [Jacques
   Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
   [EPFL](https://www.epfl.ch) during the spring semester of 2014.
 
 - [**Représentations des Groupes
-  Finis**](2013-representations-des-groupes-finis.pdf) :flag_fr:: Unofficial
+  Finis**](2013-representations-des-groupes-finis.pdf) 🇫🇷: Unofficial
   lecture notes from the Representation Theory of Finite Groups course, given
   by prof. [Jacques Thévenaz](https://people.epfl.ch/jacques.thevenaz) at
   [EPFL](https://www.epfl.ch) during the spring semester of 2013.
@@ -86,7 +86,7 @@ menu: main
   Haralampos](https://sites.google.com/a/york.ac.uk/harrygeranios/) at
   [EPFL](https://www.epfl.ch) during the fall semester of 2013.
 
-- [**Homotopie et Homologie**](2012-homotopie-et-homologie.pdf) :flag_fr::
+- [**Homotopie et Homologie**](2012-homotopie-et-homologie.pdf) 🇫🇷:
   Unofficial lecture notes from the Homotopie et Homologie course, given by
   prof. [Kathryn Hess](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald/)
   at [EPFL](https://www.epfl.ch) during the fall semester of 2012.
