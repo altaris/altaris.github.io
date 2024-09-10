@@ -71,7 +71,6 @@ menu: main
 
 - [**Introduction to multi-armed bandits**](2021-07-g0.pdf), 2021-07-14, [G0
   Seminar](https://group-mmm.org/eratommsd/members/g0-metamathematical-integration).
-  [Video](https://group-mmm.org/videos/MMMSeminar/2021/2021_G0_Seminar/2021_07_14_Ce%cc%81dric_Ho_Thanh.mp4).
 
 - [**Tensor product of Lawvere theories**](2021-04-g0.pdf), 2021-04-14, [G0
   Seminar](https://group-mmm.org/eratommsd/members/g0-metamathematical-integration).
