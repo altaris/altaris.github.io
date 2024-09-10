@@ -1,5 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>I am currently a postdoctoral researcher at Prof. Takemasa Miyoshi&amp;rsquo;s Prediction Science Laboratory (RIKEN Cluster for Pioneering Research), and at Dr. Jun Seita&amp;rsquo;s Medical Data Deep Learning Team (RIKEN Information R&amp;amp;D and Strategy Headquarters, Advanced Data Science Project) I am also a member of the RIKEN Quantum group.
-I obtained my PhD in mathematics from Université Paris Cité, France, in October 2020, where I was a student at the Research Institute for Foundations of Computer Science (IRIF), under the supervision of Pierre-Louis Curien (IRIF) and Samuel Mimram (LIX, École Polytechnique).</description></item><item><title>Contact</title><link>https://cedric.hothanh.fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/contact/</guid><description>eMail cedric.hothanh [At sign] riken [ccTLD of Japan] Address Nihonbashi 1-chome Mitsui Building, 15th floor, 1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan or 〒 103-0027 東京都 中央区日 本橋 1-4-1 日本橋一丁目 三井ビルディング 15 階</description></item><item><title>Research</title><link>https://cedric.hothanh.fr/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/research/</guid><description>Articles and preprints Trust your neighbours: Handling noise in multi-objective optimisation using kNN-averaging, 2023, with Stefan Klikovits, Ahmet Cetinkaya, and Paolo Arcaini. In Applied Soft Computing
-Topological recurrence theorems for infinitary probabilistic model checking, 2022, with Natsuki Urabe and Ichiro Hasuo.
-Frenetic at the SBST 2021 tool competition, 2021, with Ezequiel Castellano, Ahmet Cetinkaya, Stefan Klikovits, Xiaoyi Zhang, and Paolo Arcaini. In IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST).</description></item><item><title>Stuff'n things</title><link>https://cedric.hothanh.fr/stuff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/stuff/</guid><description>Projects Turbo Broccoli: A Python package containing JSON (de)serialization extensions. It makes it possible to embed bytes, numpy arrays, keras models, etc. in a dict and seemlessly pass it on to json.dump, and conversely, reconstruct these objects using json.load.
-kappak: My LaTeX package. It regroups functionalities I find useful, from general style of LaTeX documents (title page, chapter style, header / footer, …), to more specific math related commands (theorem environments, commutative diagrams, …).</description></item><item><title>Teaching</title><link>https://cedric.hothanh.fr/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/teaching/</guid><description>TA Introduction à la Programmation Java (Introduction to Java Programming), freshmen in computer science, University of Paris, 2020 Automates et Analyse Lexicale (Automata and Lexical Analysis), sophomores in computer science, University of Paris, 2019 Initiation à la Programation C (Introduction to C Programming), freshmen in preparatory classes for engineering school (CPEI), University of Paris, 2019 Initiation à la Programmation Java (Introduction to Java Programming), freshmen in computer science, University of Paris, 2018 Analyse de Données Structurées (Introduction to Compiler Construction), sophomores in computer science, University of Paris, 2018 Initiation à la Programmation Python (Introduction to Python Programming), freshmen in MIASHS (math, computer science, and social sciences), University of Paris, 2017 Algèbre Linéaire Avancée (Advanced Linear Algebra), freshmen in mathematics, EPFL, 2015 Mathématiques (Mathematics), freshmen in architecture, EPFL, 2012 &amp;amp; 2013 &amp;amp; 2014 Programation en C++ (Programming in C++), freshmen in mathematics, physics, and biology, EPFL, 2013 &amp;amp; 2014 Algèbre Linéaire Avancée (Advanced Linear Algebra), freshmen in physics, EPFL, 2014 Analyse (Calculus), freshmen in mechanical engineering, EPFL, 2013 Mathématiques Générales (General Mathematics), freshmen in biology and pharmaceutical sciences, University of Lausanne (UNIL), 2012 Supervised projects Faridath Akinotcho: λ-calcul.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>&lt;p>I am currently a postdoctoral researcher at &lt;a href="https://data-assimilation.riken.jp/~miyoshi">Prof. Takemasa
+Miyoshi&lt;/a>&amp;rsquo;s &lt;a href="https://prediction.riken.jp/project_en.html">Prediction Science
+Laboratory&lt;/a> (&lt;a href="https://www.riken.jp/en/research/labs/cpr/">RIKEN Cluster for
+Pioneering Research&lt;/a>), and at &lt;a href="http://junseita.com/mt/bio.html">Dr.
+Jun Seita&lt;/a>&amp;rsquo;s &lt;a href="https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/med_data_deep_learn/index.html">Medical Data Deep Learning
+Team&lt;/a>
+(&lt;a href="https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/index.html">RIKEN Information R&amp;amp;D and Strategy Headquarters, Advanced Data Science
+Project&lt;/a>)
+I am also a member of the &lt;a href="https://rq.riken.jp/en/">RIKEN Quantum&lt;/a> group.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>I obtained my PhD in mathematics from &lt;a href="https://u-paris.fr/en">Université Paris
+Cité&lt;/a>, France, in October 2020, where I was a student at
+the &lt;a href="https://www.irif.fr/en/index">Research Institute for Foundations of Computer Science
+(IRIF)&lt;/a>, under the supervision of &lt;a href="https://www.irif.fr/~curien">Pierre-Louis
+Curien&lt;/a> (&lt;a href="https://www.irif.fr/en/index">IRIF&lt;/a>) and
+&lt;a href="http://www.lix.polytechnique.fr/Labo/Samuel.Mimram">Samuel Mimram&lt;/a> (&lt;a href="https://www.lix.polytechnique.fr">LIX,
+École Polytechnique&lt;/a>). There, I was a member
+of PPS team (&lt;a href="https://www.irif.fr/en/index">IRIF&lt;/a>) and &lt;a href="https://www.inria.fr/en/teams/pi.r2">πr²
+team&lt;/a> of the &lt;a href="https://www.inria.fr/en">National Institute for
+Research in Computer Science and Control (INRIA)&lt;/a>.&lt;/p></description></item><item><title>Contact</title><link>https://cedric.hothanh.fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/contact/</guid><description>&lt;h1 id="email">eMail&lt;/h1>
+&lt;blockquote>
+&lt;p>cedric.hothanh
+&lt;a href="https://en.wikipedia.org/wiki/At_sign">[At sign]&lt;/a>
+riken
+&lt;a href="https://en.wikipedia.org/wiki/.jp">[ccTLD of Japan]&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="address">Address&lt;/h1>
+&lt;blockquote>
+&lt;p>Nihonbashi 1-chome Mitsui Building, 15th floor,
+1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan&lt;/p>
+&lt;/blockquote>
+&lt;p>or&lt;/p>
+&lt;blockquote>
+&lt;p>〒 103-0027 東京都 中央区日 本橋 1-4-1 日本橋一丁目 三井ビルディング 15 階&lt;/p>
+&lt;/blockquote></description></item><item><title>Research</title><link>https://cedric.hothanh.fr/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/research/</guid><description>&lt;h1 id="articles-and-preprints">Articles and preprints&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://doi.org/10.1016/j.asoc.2023.110631">&lt;strong>Trust your neighbours: Handling noise in multi-objective optimisation
+using kNN-averaging&lt;/strong>&lt;/a>, 2023,
+with &lt;a href="https://klikovits.net">Stefan Klikovits&lt;/a>, &lt;a href="http://www.ahmet.ac">Ahmet
+Cetinkaya&lt;/a>, and &lt;a href="http://group-mmm.org/~arcaini">Paolo
+Arcaini&lt;/a>. In &lt;a href="https://www.sciencedirect.com/journal/applied-soft-computing">Applied Soft
+Computing&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://hal.science/hal-04283680">&lt;strong>Topological recurrence theorems for infinitary probabilistic model
+checking&lt;/strong>&lt;/a>, 2022, with &lt;a href="https://group-mmm.org/~nurabe">Natsuki
+Urabe&lt;/a> and &lt;a href="http://group-mmm.org/~ichiro">Ichiro
+Hasuo&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://ieeexplore.ieee.org/document/9476234">&lt;strong>Frenetic at the SBST 2021 tool
+competition&lt;/strong>&lt;/a>, 2021, with
+Ezequiel Castellano, &lt;a href="http://www.ahmet.ac">Ahmet Cetinkaya&lt;/a>, &lt;a href="https://klikovits.net">Stefan
+Klikovits&lt;/a>, &lt;a href="http://group-mmm.org/~xiaoyi">Xiaoyi
+Zhang&lt;/a>, and &lt;a href="http://group-mmm.org/~arcaini">Paolo
+Arcaini&lt;/a>. In &lt;a href="https://ieeexplore.ieee.org/xpl/conhome/9476162/proceeding">IEEE/ACM 14th International
+Workshop on Search-Based Software Testing
+(SBST)&lt;/a>.&lt;/p></description></item><item><title>Stuff'n things</title><link>https://cedric.hothanh.fr/stuff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/stuff/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/altaris/turbo-broccoli">&lt;strong>Turbo Broccoli&lt;/strong>&lt;/a>: A Python
+package containing JSON (de)serialization extensions. It makes it possible to
+embed &lt;code>bytes&lt;/code>, &lt;code>numpy&lt;/code> arrays, &lt;code>keras&lt;/code> models,
+&lt;a href="https://cedric.hothanh.fr/turbo-broccoli/turbo_broccoli.html#supported-types">etc.&lt;/a>
+in a &lt;code>dict&lt;/code> and seemlessly pass it on to &lt;code>json.dump&lt;/code>, and conversely,
+reconstruct these objects using &lt;code>json.load&lt;/code>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/altaris/kappak">&lt;strong>kappak&lt;/strong>&lt;/a>: My LaTeX package. It
+regroups functionalities I find useful, from general style of LaTeX documents
+(title page, chapter style, header / footer, …), to more specific math
+related commands (theorem environments, commutative diagrams, …).
+Consequently, it might not be as useful for you as it is for me, but you are
+welcome to give a try. &lt;a href="https://altaris.github.io/kappak">Wiki-that-might-or-might-not-be-up-to-date (￣ ω
+￣;)&lt;/a>.&lt;/p></description></item><item><title>Teaching</title><link>https://cedric.hothanh.fr/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/teaching/</guid><description>&lt;h1 id="ta">TA&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Introduction à la Programmation Java (Introduction to Java Programming)&lt;/strong>,
+freshmen in computer science, University of Paris, 2020&lt;/li>
+&lt;li>&lt;strong>Automates et Analyse Lexicale (Automata and Lexical Analysis)&lt;/strong>, sophomores
+in computer science, University of Paris, 2019&lt;/li>
+&lt;li>&lt;strong>Initiation à la Programation C (Introduction to C Programming)&lt;/strong>, freshmen
+in preparatory classes for engineering school (CPEI), University of Paris,
+2019&lt;/li>
+&lt;li>&lt;strong>Initiation à la Programmation Java (Introduction to Java Programming)&lt;/strong>,
+freshmen in computer science, University of Paris, 2018&lt;/li>
+&lt;li>&lt;strong>Analyse de Données Structurées (Introduction to Compiler Construction)&lt;/strong>,
+sophomores in computer science, University of Paris, 2018&lt;/li>
+&lt;li>&lt;strong>Initiation à la Programmation Python (Introduction to Python
+Programming)&lt;/strong>, freshmen in MIASHS (math, computer science, and social
+sciences), University of Paris, 2017&lt;/li>
+&lt;li>&lt;strong>Algèbre Linéaire Avancée (Advanced Linear Algebra)&lt;/strong>, freshmen in
+mathematics, EPFL, 2015&lt;/li>
+&lt;li>&lt;strong>Mathématiques (Mathematics)&lt;/strong>, freshmen in architecture, EPFL, 2012 &amp;amp; 2013
+&amp;amp; 2014&lt;/li>
+&lt;li>&lt;strong>Programation en C++ (Programming in C++)&lt;/strong>, freshmen in mathematics,
+physics, and biology, EPFL, 2013 &amp;amp; 2014&lt;/li>
+&lt;li>&lt;strong>Algèbre Linéaire Avancée (Advanced Linear Algebra)&lt;/strong>, freshmen in physics,
+EPFL, 2014&lt;/li>
+&lt;li>&lt;strong>Analyse (Calculus)&lt;/strong>, freshmen in mechanical engineering, EPFL, 2013&lt;/li>
+&lt;li>&lt;strong>Mathématiques Générales (General Mathematics)&lt;/strong>, freshmen in biology and
+pharmaceutical sciences, University of Lausanne (UNIL), 2012&lt;/li>
+&lt;/ul>
+&lt;h1 id="supervised-projects">Supervised projects&lt;/h1>
+&lt;ul>
+&lt;li>Faridath Akinotcho: &lt;strong>λ-calcul&lt;/strong>. Extracurricular sophomore project&lt;/li>
+&lt;/ul></description></item></channel></rss>
