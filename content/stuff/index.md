@@ -38,7 +38,18 @@ menu: main
   For a nice web-based user interface, check out
   [SNI-frontend](https://github.com/r0kym/SNI-frontend).
 
-# Selected lecture notes
+# Selected lecture notes and misc. presentations
+
+- [**Article presentation**](2023-04-26-論文紹介.pdf), 2023-04-26: Joon Sung
+  Park, Joseph O'Brien, Carrie Jun Cai, Meredith Ringel Morris, Percy Liang, and
+  Michael S. Bernstein. 2023. **Generative Agents: Interactive Simulacra of Human
+  Behavior**. In Proceedings of the 36th Annual ACM Symposium on User Interface
+  Software and Technology (UIST '23). Association for Computing Machinery, New
+  York, NY, USA, Article 2, 1–22. https://doi.org/10.1145/3586183.3606763
+
+- [**Article presentation**](2023-09-14-論文紹介.pdf): 2023-09-14: Zheng,
+  Mingkai, et al. "**Can gpt-4 perform neural architecture search?**." arXiv
+  preprint [arXiv:2304.10970](https://arxiv.org/abs/2304.10970) (2023).
 
 - [**Homotopy Theory of Strict
   ω-Categories**](https://github.com/altaris/htpy-str-omegacat/raw/master/CIRM%20Sept%2017%20-%20Homotopy%20Theory%20of%20Strict%20Omega-Categories.pdf),
