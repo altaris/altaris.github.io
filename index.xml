@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>&lt;p>I am currently a postdoctoral researcher at &lt;a href="https://data-assimilation.riken.jp/~miyoshi">Prof. Takemasa
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- 0.137.0</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>&lt;p>I am currently a postdoctoral researcher at &lt;a href="https://data-assimilation.riken.jp/~miyoshi">Prof. Takemasa
 Miyoshi&lt;/a>&amp;rsquo;s &lt;a href="https://prediction.riken.jp/project_en.html">Prediction Science
 Laboratory&lt;/a> (&lt;a href="https://www.riken.jp/en/research/labs/cpr/">RIKEN Cluster for
 Pioneering Research&lt;/a>), and at &lt;a href="http://junseita.com/mt/bio.html">Dr.
@@ -36,6 +36,11 @@ riken
 &lt;/blockquote></description></item><item><title>Research</title><link>https://cedric.hothanh.fr/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/research/</guid><description>&lt;h1 id="articles-and-preprints">Articles and preprints&lt;/h1>
 &lt;ul>
 &lt;li>
+&lt;p>&lt;strong>Improving Fine-Tuning with Latent Cluster Correction&lt;/strong>, 2024, accepted at
+&lt;a href="https://sites.google.com/view/neurips2024-ftw/home">Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)
+2024&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a href="https://doi.org/10.1016/j.asoc.2023.110631">&lt;strong>Trust your neighbours: Handling noise in multi-objective optimisation
 using kNN-averaging&lt;/strong>&lt;/a>, 2023,
 with &lt;a href="https://klikovits.net">Stefan Klikovits&lt;/a>, &lt;a href="http://www.ahmet.ac">Ahmet
@@ -57,13 +62,7 @@ Klikovits&lt;/a>, &lt;a href="http://group-mmm.org/~xiaoyi">Xiaoyi
 Zhang&lt;/a>, and &lt;a href="http://group-mmm.org/~arcaini">Paolo
 Arcaini&lt;/a>. In &lt;a href="https://ieeexplore.ieee.org/xpl/conhome/9476162/proceeding">IEEE/ACM 14th International
 Workshop on Search-Based Software Testing
-(SBST)&lt;/a>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://arxiv.org/abs/2001.07924">&lt;strong>Opetopic algebras III: Presheaf models of homotopy-coherent opetopic
-algebras&lt;/strong>&lt;/a>, 2020, with &lt;a href="https://www.chaitanyals.site">Chaitanya Leena
-Subramaniam&lt;/a>. &lt;a href="https://hal.archives-ouvertes.fr/hal-02448208">HAL
-mirror&lt;/a>.&lt;/p></description></item><item><title>Stuff'n things</title><link>https://cedric.hothanh.fr/stuff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/stuff/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
+(SBST)&lt;/a>.&lt;/p></description></item><item><title>Stuff'n things</title><link>https://cedric.hothanh.fr/stuff/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/stuff/</guid><description>&lt;h1 id="projects">Projects&lt;/h1>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/altaris/turbo-broccoli">&lt;strong>Turbo Broccoli&lt;/strong>&lt;/a>: A Python
@@ -80,35 +79,4 @@ regroups functionalities I find useful, from general style of LaTeX documents
 related commands (theorem environments, commutative diagrams, …).
 Consequently, it might not be as useful for you as it is for me, but you are
 welcome to give a try. &lt;a href="https://altaris.github.io/kappak">Wiki-that-might-or-might-not-be-up-to-date (￣ ω
-￣;)&lt;/a>.&lt;/p></description></item><item><title>Teaching</title><link>https://cedric.hothanh.fr/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/teaching/</guid><description>&lt;h1 id="ta">TA&lt;/h1>
-&lt;ul>
-&lt;li>&lt;strong>Introduction à la Programmation Java (Introduction to Java Programming)&lt;/strong>,
-freshmen in computer science, University of Paris, 2020&lt;/li>
-&lt;li>&lt;strong>Automates et Analyse Lexicale (Automata and Lexical Analysis)&lt;/strong>, sophomores
-in computer science, University of Paris, 2019&lt;/li>
-&lt;li>&lt;strong>Initiation à la Programation C (Introduction to C Programming)&lt;/strong>, freshmen
-in preparatory classes for engineering school (CPEI), University of Paris,
-2019&lt;/li>
-&lt;li>&lt;strong>Initiation à la Programmation Java (Introduction to Java Programming)&lt;/strong>,
-freshmen in computer science, University of Paris, 2018&lt;/li>
-&lt;li>&lt;strong>Analyse de Données Structurées (Introduction to Compiler Construction)&lt;/strong>,
-sophomores in computer science, University of Paris, 2018&lt;/li>
-&lt;li>&lt;strong>Initiation à la Programmation Python (Introduction to Python
-Programming)&lt;/strong>, freshmen in MIASHS (math, computer science, and social
-sciences), University of Paris, 2017&lt;/li>
-&lt;li>&lt;strong>Algèbre Linéaire Avancée (Advanced Linear Algebra)&lt;/strong>, freshmen in
-mathematics, EPFL, 2015&lt;/li>
-&lt;li>&lt;strong>Mathématiques (Mathematics)&lt;/strong>, freshmen in architecture, EPFL, 2012 &amp;amp; 2013
-&amp;amp; 2014&lt;/li>
-&lt;li>&lt;strong>Programation en C++ (Programming in C++)&lt;/strong>, freshmen in mathematics,
-physics, and biology, EPFL, 2013 &amp;amp; 2014&lt;/li>
-&lt;li>&lt;strong>Algèbre Linéaire Avancée (Advanced Linear Algebra)&lt;/strong>, freshmen in physics,
-EPFL, 2014&lt;/li>
-&lt;li>&lt;strong>Analyse (Calculus)&lt;/strong>, freshmen in mechanical engineering, EPFL, 2013&lt;/li>
-&lt;li>&lt;strong>Mathématiques Générales (General Mathematics)&lt;/strong>, freshmen in biology and
-pharmaceutical sciences, University of Lausanne (UNIL), 2012&lt;/li>
-&lt;/ul>
-&lt;h1 id="supervised-projects">Supervised projects&lt;/h1>
-&lt;ul>
-&lt;li>Faridath Akinotcho: &lt;strong>λ-calcul&lt;/strong>. Extracurricular sophomore project&lt;/li>
-&lt;/ul></description></item></channel></rss>
+￣;)&lt;/a>.&lt;/p></description></item></channel></rss>
