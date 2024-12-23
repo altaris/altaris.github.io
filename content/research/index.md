@@ -94,7 +94,7 @@ menu: main
 - [**Opetopic algebras**](2019-10-jlhc.pdf), 2019-10-16, [Journées
   LHC](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/LHC/journees/2019/07/01/journees.html).
   Presentation of the main results of
-  **Opetopic algebras I: algebraic structures on opetopic sets** (see above).
+  **Opetopic algebras I: algebraic structures on opetopic sets** (see above).
 
 - [**Two syntactical approaches to opetopes**](2018-10-jlhc.pdf), 2018-10-18,
   [Journées
