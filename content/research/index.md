@@ -114,6 +114,9 @@ menu: main
 
 # Projects
 
+- [**lcc**](https://github.com/altaris/lcc): Latent cluster correction for
+  fine-tuning classifier neural networks.
+
 - [**noisy-moo**](https://github.com/altaris/noisy-moo): A wrapper-based
   framework for [`pymoo`](https://pymoo.org) problem modification and algorithm
   benchmarking. Initially developed to test
