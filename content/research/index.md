@@ -35,10 +35,6 @@ menu: main
   Subramaniam](https://www.chaitanyals.site). [HAL
   mirror](https://hal.archives-ouvertes.fr/hal-02448208).
 
-- **Opetopic algebras II: Homotopy-coherent opetopic algebras**, in
-  preparation, with [Chaitanya Leena
-  Subramaniam](https://www.chaitanyals.site).
-
 - [**Opetopic algebras I: Algebraic structures on opetopic
   sets**](https://higher-structures.math.cas.cz/api/files/issues/Vol6Iss1/HoThanhLeenaSubramaniam),
   2022, with [Chaitanya Leena Subramaniam](https://www.chaitanyals.site). In
