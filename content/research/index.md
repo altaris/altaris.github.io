@@ -5,8 +5,9 @@ menu: main
 
 # Articles and preprints
 
-- **Improving Fine-Tuning with Latent Cluster Correction**, 2024, accepted at
-  [Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)
+- [**Improving Fine-Tuning with Latent Cluster
+  Correction**](https://arxiv.org/abs/2501.11919), 2024. Accepted and presented
+  at [Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)
   2024](https://sites.google.com/view/neurips2024-ftw/home).
 
 - [**Trust your neighbours: Handling noise in multi-objective optimisation
