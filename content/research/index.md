@@ -109,6 +109,10 @@ menu: main
 
 # Projects
 
+- [**pcb**](https://github.com/altaris/pauli-coloring-benchmark): Tests and
+  benchmark for ongoing research on reordering of sparse Pauli Hamiltonians
+  based on graph coloring.
+
 - [**lcc**](https://github.com/altaris/lcc): Latent cluster correction for
   fine-tuning classifier neural networks.
 
