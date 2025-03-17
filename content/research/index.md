@@ -5,6 +5,9 @@ menu: main
 
 # Articles and preprints
 
+- [**Hamiltonian Reordering for Shallower Trotterization
+  Circuits**](https://arxiv.org/abs/2503.11153), 2025.
+
 - [**Improving Fine-Tuning with Latent Cluster
   Correction**](https://arxiv.org/abs/2501.11919), 2024. Accepted and presented
   at [Fine-Tuning in Modern Machine Learning: Principles and Scalability (FITML)
