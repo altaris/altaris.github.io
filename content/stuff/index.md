@@ -104,6 +104,8 @@ menu: main
 
 # Personal notes
 
+- [**Quantum Cheatsheet**](2025-quantum-cheatsheet.pdf), 2025.
+
 - [**Stability of Lawvere Theories**](2021-stability-of-lawvere-theories.pdf),
   work in progress, 2021.
 
