@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>&lt;p>I am currently a postdoctoral researcher at &lt;a href="https://data-assimilation.riken.jp/~miyoshi">Prof. Takemasa
-Miyoshi&lt;/a>&amp;rsquo;s &lt;a href="https://prediction.riken.jp/project_en.html">Prediction Science
-Laboratory&lt;/a> (&lt;a href="https://www.riken.jp/en/research/labs/cpr/">RIKEN Cluster for
-Pioneering Research&lt;/a>), and at &lt;a href="http://junseita.com/mt/bio.html">Dr.
-Jun Seita&lt;/a>&amp;rsquo;s &lt;a href="https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/med_data_deep_learn/index.html">Medical Data Deep Learning
-Team&lt;/a>
-(&lt;a href="https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/index.html">RIKEN Information R&amp;amp;D and Strategy Headquarters, Advanced Data Science
-Project&lt;/a>)
-I am also a member of the &lt;a href="https://rq.riken.jp/en/">RIKEN Quantum&lt;/a> group.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cédric Ho Thanh on Cédric HT</title><link>https://cedric.hothanh.fr/</link><description>Recent content in Cédric Ho Thanh on Cédric HT</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><atom:link href="https://cedric.hothanh.fr/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://cedric.hothanh.fr/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/about/</guid><description>&lt;p>I am currently a research engineer at &lt;a href="https://eaglys.co.jp/">EAGLYS&lt;/a>.&lt;/p>
 &lt;p>I obtained my PhD in mathematics from &lt;a href="https://u-paris.fr/en">Université Paris
 Cité&lt;/a>, France, in October 2020, where I was a student at
 the &lt;a href="https://www.irif.fr/en/index">Research Institute for Foundations of Computer Science
@@ -16,19 +8,22 @@ Curien&lt;/a> (&lt;a href="https://www.irif.fr/en/index">IRIF&lt;/a>) and
 École Polytechnique&lt;/a>). There, I was a member
 of PPS team (&lt;a href="https://www.irif.fr/en/index">IRIF&lt;/a>) and &lt;a href="https://www.inria.fr/en/teams/pi.r2">πr²
 team&lt;/a> of the &lt;a href="https://www.inria.fr/en">National Institute for
-Research in Computer Science and Control (INRIA)&lt;/a>.&lt;/p></description></item><item><title>Contact</title><link>https://cedric.hothanh.fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/contact/</guid><description>&lt;h1 id="email">eMail&lt;/h1>
+Research in Computer Science and Control (INRIA)&lt;/a>.&lt;/p>
+&lt;p>I graduated with both a bachelor&amp;rsquo;s and master&amp;rsquo;s degree in mathematics from
+&lt;a href="https://www.epfl.ch">École Polytechnique Fédérale de Lausanne (EPFL)&lt;/a>,
+Switzerland. I wrote my master&amp;rsquo;s thesis as an exchange student at the
+&lt;a href="http://www.ku.dk/english">University of Copenhagen&lt;/a>, Denmark, under the
+supervision of &lt;a href="http://web.math.ku.dk/~wahl">Nathalie Wahl&lt;/a> and &lt;a href="https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald">Kathryn
+Hess&lt;/a>
+(&lt;a href="https://www.epfl.ch">EPFL&lt;/a>).&lt;/p></description></item><item><title>Contact</title><link>https://cedric.hothanh.fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/contact/</guid><description>&lt;h1 id="email">eMail&lt;/h1>
 &lt;blockquote>
 &lt;p>cedric.hothanh
 &lt;a href="https://en.wikipedia.org/wiki/At_sign">[At sign]&lt;/a>
-riken
+eaglys.co.
 &lt;a href="https://en.wikipedia.org/wiki/.jp">[ccTLD of Japan]&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;h1 id="address">Address&lt;/h1>
 &lt;blockquote>
-&lt;p>Nihonbashi 1-chome Mitsui Building, 15th floor,
-1-4-1 Nihonbashi, Chuo-ku, Tokyo 103-0027, Japan&lt;/p>&lt;/blockquote>
-&lt;p>or&lt;/p>
-&lt;blockquote>
-&lt;p>〒 103-0027 東京都 中央区日 本橋 1-4-1 日本橋一丁目 三井ビルディング 15 階&lt;/p>&lt;/blockquote></description></item><item><title>Research</title><link>https://cedric.hothanh.fr/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/research/</guid><description>&lt;h1 id="articles-and-preprints">Articles and preprints&lt;/h1>
+&lt;p>〒 151-0051 東京都 渋谷区 千駄ヶ谷 5 丁目 27-3 やまとビル 7F&lt;/p>&lt;/blockquote></description></item><item><title>Research</title><link>https://cedric.hothanh.fr/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cedric.hothanh.fr/research/</guid><description>&lt;h1 id="articles-and-preprints">Articles and preprints&lt;/h1>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://arxiv.org/abs/2503.11153">&lt;strong>Hamiltonian Reordering for Shallower Trotterization
