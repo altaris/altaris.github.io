@@ -3,7 +3,9 @@ title: About me
 menu: main
 ---
 
-I am currently a postdoctoral researcher at [Prof. Takemasa
+I am currently a research engineer at [EAGLYS](https://eaglys.co.jp/).
+
+<!-- I am currently a postdoctoral researcher at [Prof. Takemasa
 Miyoshi](https://data-assimilation.riken.jp/~miyoshi)'s [Prediction Science
 Laboratory](https://prediction.riken.jp/project_en.html) ([RIKEN Cluster for
 Pioneering Research](https://www.riken.jp/en/research/labs/cpr/)), and at [Dr.
@@ -11,7 +13,7 @@ Jun Seita](http://junseita.com/mt/bio.html)'s [Medical Data Deep Learning
 Team](https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/med_data_deep_learn/index.html)
 ([RIKEN Information R&D and Strategy Headquarters, Advanced Data Science
 Project](https://www.riken.jp/en/research/labs/r-ih/adv_data_sci_proj/index.html))
-I am also a member of the [RIKEN Quantum](https://rq.riken.jp/en/) group.
+I am also a member of the [RIKEN Quantum](https://rq.riken.jp/en/) group. -->
 
 <!-- I am currently a project researcher at [Ichiro
 Hasuo](http://group-mmm.org/~ichiro)'s [ERATO Metamathematics for Systems
